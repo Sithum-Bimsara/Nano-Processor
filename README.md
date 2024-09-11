@@ -67,9 +67,11 @@ This timing diagram shows the clock signal, reset, zero flag, overflow flag, com
 ![Physical Implementation](https://via.placeholder.com/500x300?text=Physical+Implementation)
 
 
-Clone the repository:
+## Running the Project
+ Clone the repository:
     ```bash
-    git clone https://github.com/SithumBimsara20030113/Nano-Processor.git
+    git clone https://github.com/SithumBimsara20030113/ShinePrinters-Queue-System.git 
+    ```
 
 ## Contributors
 
