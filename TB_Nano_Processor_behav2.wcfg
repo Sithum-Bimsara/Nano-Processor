@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="TB_Nano_Processor_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="TB_Nano_Processor" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="606093580fs"></ZoomEndTime>
+      <Cursor1Time time="300000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="118"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="14" />
+   <wvobject fp_name="/TB_Nano_Processor/Clk_in" type="logic">
+      <obj_property name="ElementShortName">Clk_in</obj_property>
+      <obj_property name="ObjectShortName">Clk_in</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Nano_Processor/Reset" type="logic">
+      <obj_property name="ElementShortName">Reset</obj_property>
+      <obj_property name="ObjectShortName">Reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Nano_Processor/ZERO" type="logic">
+      <obj_property name="ElementShortName">ZERO</obj_property>
+      <obj_property name="ObjectShortName">ZERO</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Nano_Processor/Overflow" type="logic">
+      <obj_property name="ElementShortName">Overflow</obj_property>
+      <obj_property name="ObjectShortName">Overflow</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Nano_Processor/Equal" type="logic">
+      <obj_property name="ElementShortName">Equal</obj_property>
+      <obj_property name="ObjectShortName">Equal</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Nano_Processor/Greater" type="logic">
+      <obj_property name="ElementShortName">Greater</obj_property>
+      <obj_property name="ObjectShortName">Greater</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Nano_Processor/Lesser" type="logic">
+      <obj_property name="ElementShortName">Lesser</obj_property>
+      <obj_property name="ObjectShortName">Lesser</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Nano_Processor/UUT/Program_Counter_0/Clock" type="logic">
+      <obj_property name="ElementShortName">Clock</obj_property>
+      <obj_property name="ObjectShortName">Clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Nano_Processor/UUT/Program_Counter_0/PC_out" type="array">
+      <obj_property name="ElementShortName">PC_out[2:0]</obj_property>
+      <obj_property name="ObjectShortName">PC_out[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Nano_Processor/UUT/Register_Bank_0/Register_0_output" type="array">
+      <obj_property name="ElementShortName">Register_0_output[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Register_0_output[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Nano_Processor/UUT/Register_Bank_0/Register_1_output" type="array">
+      <obj_property name="ElementShortName">Register_1_output[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Register_1_output[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Nano_Processor/UUT/Register_Bank_0/Register_2_output" type="array">
+      <obj_property name="ElementShortName">Register_2_output[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Register_2_output[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Nano_Processor/UUT/MUX_A/Multiplexer_8_way_4_bit_output" type="array">
+      <obj_property name="ElementShortName">Multiplexer_8_way_4_bit_output[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Multiplexer_8_way_4_bit_output[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Nano_Processor/UUT/MUX_B/Multiplexer_8_way_4_bit_output" type="array">
+      <obj_property name="ElementShortName">Multiplexer_8_way_4_bit_output[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Multiplexer_8_way_4_bit_output[3:0]</obj_property>
+   </wvobject>
+</wave_config>

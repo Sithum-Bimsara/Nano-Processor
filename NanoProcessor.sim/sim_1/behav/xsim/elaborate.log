@@ -1,0 +1,15 @@
+Vivado Simulator 2018.1
+Copyright 1986-1999, 2001-2017 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2018.1/bin/unwrapped/win64.o/xelab.exe -wto 3b42629a60ae419aa809fb02febf097d --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot TB_Magnitude_Comparator_4_bit_behav xil_defaultlib.TB_Magnitude_Comparator_4_bit -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling architecture behavioral of entity xil_defaultlib.Magnitude_Comparator_4_bit [magnitude_comparator_4_bit_defau...]
+Compiling architecture behavioral of entity xil_defaultlib.tb_magnitude_comparator_4_bit
+Built simulation snapshot TB_Magnitude_Comparator_4_bit_behav
