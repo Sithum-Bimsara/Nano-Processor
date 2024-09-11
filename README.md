@@ -64,7 +64,7 @@ This timing diagram shows the clock signal, reset, zero flag, overflow flag, com
 
 ## Contributors
 
-https://github.com/SithumBimsara20030113
-https://github.com/pererabsdt
-https://github.com/KaveeshaKapuruge
-https://github.com/jayasinghesasmitha)
+- https://github.com/SithumBimsara20030113
+- https://github.com/pererabsdt
+- https://github.com/KaveeshaKapuruge
+- https://github.com/jayasinghesasmitha)
