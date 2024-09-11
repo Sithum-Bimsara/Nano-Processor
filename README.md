@@ -66,6 +66,11 @@ This timing diagram shows the clock signal, reset, zero flag, overflow flag, com
 ![Simulation Results](https://via.placeholder.com/500x300?text=Simulation+Results)
 ![Physical Implementation](https://via.placeholder.com/500x300?text=Physical+Implementation)
 
+
+Clone the repository:
+    ```bash
+    git clone https://github.com/SithumBimsara20030113/Nano-Processor.git
+
 ## Contributors
 
 https://github.com/SithumBimsara20030113
