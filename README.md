@@ -62,12 +62,6 @@ The following table outlines the instruction set for the NanoProcessor:
 ![Timing Diagram for Nano Processor](https://github.com/SithumBimsara20030113/Nano-Processor/blob/main/Images/Timing%20%20Diagram%20%20for%20%20Nano%20%20Processor.png)
 This timing diagram shows the clock signal, reset, zero flag, overflow flag, comparison flags (Equal, Greater, Lesser), and register values over time for the Nano Processor.
 
-![Processor Design](https://via.placeholder.com/500x300?text=Processor+Design)
-![Simulation Results](https://via.placeholder.com/500x300?text=Simulation+Results)
-![Physical Implementation](https://via.placeholder.com/500x300?text=Physical+Implementation)
-
-
-
 ## Contributors
 
 https://github.com/SithumBimsara20030113
